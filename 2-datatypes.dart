@@ -22,4 +22,5 @@ void main(){
   print("Dynamic: $dynaVar");
 
   //Lists and Map will be covered in the next file
+  
 }
