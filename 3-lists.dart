@@ -41,4 +41,5 @@ void main() {
   mixedList.removeAt(1);
   print(mixedList);
   print(mixedList.runtimeType); //Shows as "object" since we ahve multiple datatypes 
+  
 }
