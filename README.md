@@ -1,2 +1,2 @@
 # Dart
-Figuring out to use DART
+Figuring out how to use DART
