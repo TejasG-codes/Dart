@@ -1,7 +1,3 @@
-/* To run the program type 
-dart filename.dart
-*/
-
 void main(){
 //Variable name should be in camelCase
     //Var  (can be of any datatype but fixed once declared)
