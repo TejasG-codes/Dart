@@ -11,7 +11,7 @@ void main() {
     }
   }
   
-  //FOR IN
+  //FOR IN with break and continue
   var fruits = ["Apple","Banana","Orange","Mango","Kiwi","Pear"];
   for (var fruit in fruits) {
     if (fruit == "Banana") continue; // skip banana
