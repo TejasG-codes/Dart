@@ -20,6 +20,8 @@ void main(){
   //Dynamic
   dynamic dynaVar= "My Name is Jeff!" ;
   print("Dynamic: $dynaVar");
+  dynaVar=67;
+  print("Dynamic: $dynaVar");
 
   //Lists and Map will be covered in the next file
   
